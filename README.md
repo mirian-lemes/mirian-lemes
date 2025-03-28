@@ -1,5 +1,5 @@
 - 👋 Olá, sou Mirian Lemes
-- 👀 Estou interessada na áreas de Garantia de Qualidade (QA) e Desenvolvimento Back-end.
+- 👀 Estou interessada na QA (Quality Assurance) e Desenvolvimento Back-end.
 - 🌱  No momento estou aprendendo HTML, CSS, JAVA, PYTHON.
 - 📫 Como entrar em contato comigo: mirianarrudalemes@hotmail.com
 
